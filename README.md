@@ -1,6 +1,6 @@
 # Develop-a-data-pipeline-using-Apache-Spark-Google-Cloud-Storage-and-Google-Big-Query
 
-This project consist of developing a data pipeline using Apache Spark, Google Cloud Storage, and Google Big Query.
+This project consists of developing a data pipeline using Apache Spark, Google Cloud Storage, and Google Big Query.
 
 1) Tools used:
 
